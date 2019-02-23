@@ -1,0 +1,45 @@
+.ulSmall{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%; 
+    /* background-color: #1a2b6d; */
+    
+}
+.ulSmall .fa{
+    font-size: 30px;
+}
+.ulSmall li a {
+    display: block;
+    padding: 8px;
+    color: black;
+    /* background-color: #dddddd; */
+}
+.ulSmall li{
+    display: inline;
+    float: left;
+}
+
+.Img{
+    padding-top: 8%;
+}
+
+#Img{
+    height: 60vh;
+    width: 100%;
+    
+}
+
+#Sec02{
+    height: 20vh;
+    width: 100%;
+    background-color: #1a2b6d;
+    color: white;
+    text-align: center;
+}
+.small .item p{
+    font-size: 20px;
+    padding-left: 2%;
+    padding-right: 2%;
+    color: #1a2b6d;
+ }

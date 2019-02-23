@@ -1,0 +1,136 @@
+/* Mobile Phone  navbar section*/
+#navcol-1 {
+    list-style: none;
+    text-align: center;
+    
+}
+#navcol-1 li a{
+    color:#c0a055;
+    text-decoration: none;
+}
+
+#navcol-1 li a:hover{
+    color:#292e41;
+}
+
+#carousel-head p{
+    color:#7b7b7b;
+}
+
+.ulSmall .fa{
+    color:#c0a055;
+}
+
+.push{
+    margin-left:93%;
+    /* background-color: yellow; */
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 50%;
+    z-index: 10;
+    font-size: 30px;
+    list-style: none;
+    background: #1a2b6d;
+    
+
+}
+.push .fa{
+    color: white;
+}
+
+
+.SecondLayer .jumbotron{
+    margin-right: 2vw;
+    width: 30%;
+}
+.SecondLayer h1{
+    color: white;
+}
+.SecondLayer h2, h3{
+    color: #1a2b6d; 
+}
+
+.SecondLayer .col-sm-4{
+    margin-bottom: 0;
+}
+
+#FirstLayer{
+    z-index: -2;
+    background:#1a2b6d; 
+    height: 50vh;
+}
+
+.SecondLayer{
+    z-index: 2;
+    margin-top: -20%;
+    margin-left: 10%;
+}
+.SecondLayer p{
+    font-size: 14px;
+}
+
+.carousel{
+    text-align: center;
+}
+.carousel .item h2{
+   color: #1a2b6d;
+}
+
+.car .item p{
+    font-size: 30px;
+    padding-left: 20%;
+    padding-right: 20%;
+    color: #1a2b6d;
+ }
+ .carousel .item  h4{
+    color: rgba(255, 0, 0, 0.753);
+    font-size: 12px;
+    font-weight: 100;
+ }
+
+ form{
+     margin-top: 5%;
+     margin-bottom: 5%;
+ }
+ .form-control{
+     border-top: none;
+     border-left: none;
+     border-right: none;
+     background-color: transparent;
+     color: white;
+ }
+ #red{
+     border-bottom-color: red;
+ }
+ 
+ form button{
+     border: none;
+     background-color: transparent;
+     font-size: 18px;
+ }
+
+
+ .btn1{
+    background-color:#337ab7;
+ }
+
+.btn2{
+    background-color:#d9534f;
+    color: white;
+ }
+
+
+/* *********Why Choose Us */
+#chooseUs .container{
+    width: 650px;
+    /* margin-left: 23%; */
+}
+#chooseUs h2{
+    color: #1a2b6d;
+}
+#chooseUs p{
+    font-size: 18px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    font-family: Cambria;
+}
